@@ -1,0 +1,40 @@
+body{
+    font-family: monospace, monospace, Arial, Helvetica;
+    background-color:#2E3840;
+}
+
+.headerCont{
+    display:flex;
+    justify-content: center;
+    margin-top:30px;
+    margin-bottom: 40px;
+    font-size:40px;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+}
+
+.subcontainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.square{
+    background-color: white;
+}
+
+.buttonCont{
+    display:flex;
+    justify-content: center;
+}
+
+.button{
+    margin-top:50px;
+    background-color: #F9DBBB;
+    padding:20px;
+    font-size:20px;
+    border-radius:10px;
+    border-color:black;
+}
